@@ -1,0 +1,29 @@
+{
+  "name": "fend-feedreader-tester",
+  "version": "1.0.0",
+  "description": "This is a project based on jasmine framework.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.4.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fend-feedreader",
+    "feedreader",
+    "divesh",
+    "divesh panwar"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diveshpanwar/feedreader.git"
+  },
+  "author": "Divesh Panwar",
+  "license": "ISC"
+}
